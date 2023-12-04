@@ -2,7 +2,7 @@ fx_version "cerulean"
 games { 'gta5' }
 
 author 'G&N_s Studio'
-description 'Sandy Shore Mapdata - Clinic Center + Burgershot + Sheriff Dept + Motel + Strip Mall'
+description 'Sandy Shore Mapdata - Clinic Center + Burgershot + Sheriff Dept + Motel'
 version '3.0.0'
 
 dependencies {
@@ -15,6 +15,5 @@ this_is_a_map 'yes'
 escrow_ignore {
     'stream/ybn/*.ybn',
     'stream/ydr/*.ydr',
-    'stream/ydr/*.ydd',
     'stream/ymap/*.ymap'
 }
