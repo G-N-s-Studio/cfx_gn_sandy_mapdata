@@ -2,7 +2,7 @@ fx_version "cerulean"
 games { 'gta5' }
 
 author 'G&N_s Studio'
-description 'Sandy Shore Mapdata , G&Ns Clinic Center + BurgerShot + Motel + Gabz Sheriff'
+description 'Sandy Shore Mapdata , G&Ns Clinic Center + Motel + Gabz Sheriff'
 version '1.0.0'
 
 dependencies {
