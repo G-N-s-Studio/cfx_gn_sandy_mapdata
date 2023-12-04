@@ -2,8 +2,8 @@ fx_version "cerulean"
 games { 'gta5' }
 
 author 'G&N_s Studio'
-description 'Sandy Shore Mapdata - Clinic Center + Burgershot + Sheriff Dept + Motel + Strip Mall'
-version '3.0.0'
+description 'Sandy Shore Mapdata_BurgerShot_Only'
+version '1.0.0'
 
 dependencies {
     '/server:4960',
