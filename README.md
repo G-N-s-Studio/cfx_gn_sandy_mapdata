@@ -1,26 +1,22 @@
-# README 
-
-[INSTALLATION:]
+[EN] [INSTALLATION:]
 1. Delete and replaced the **cfx_gn_sandy_mapdata**
-2. Clean up your cash server and reboot it!
+2. Delete this files in Prompt ressource  **cfx_prompt_sandy_shores_fire_department\stream** :
 
+    - hi@lr_cs4_09_0.ybn
+    - lr_cs4_09_0.ybn
 
+    - lr_cs4_09_long_0.ymap
+    - lr_cs4_roads_critical_2.ymap
+    - lr_cs4_09_strm_0.ymap
+    - lr_cs4_roads_long_0.ymap
+    - lr_cs4_roads_strm_2.ymap
+    - lr_cs4_roads.ymap
+    - cs4_09_grass_0.ymap
+    - cs4_occl_03
 
-# FAQ
+    - cs4_rd_props_xwire09.ydr
 
-**I have collision trees and buildings in other G&N's mods?**
+3. Clean up your cash server and reboot it!
 
-1. Make sure you're using the right compatibility.
-2. G&N's ensures compatibility with 100% of these mods simultaneously. 
-   We cannot guarantee all compatibility possibilities.
-
-**I've got trees, buildings and collisions on other mods, from other creators?**
-
-1. You probably have duplicate files in several resources. Compare files between cfx_gn_sandy_mapdata and other resources to find out which files are in conflict.
-
-    # Tips :
-    Our friend Prompt has created a tool to make this task easier: 
-
-    -> Tool : https://fivem.prompt-mods.com/compatibility-tool
-
-    -> Tutorial: https://youtu.be/GeJto5IWL_M
+**WARNING!**
+If you don't delete the files in the Prompt resource, it won't work. Your game cannot load two identical files. Do not rename the files, they are vanilla files of the game
