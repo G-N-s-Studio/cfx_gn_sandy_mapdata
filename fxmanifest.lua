@@ -15,5 +15,6 @@ this_is_a_map 'yes'
 escrow_ignore {
     'stream/ybn/*.ybn',
     'stream/ydr/*.ydr',
+    'stream/ydr/*.ydd',
     'stream/ymap/*.ymap'
 }
