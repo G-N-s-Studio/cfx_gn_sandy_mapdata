@@ -5,12 +5,11 @@ author 'G&N_s Studio'
 description 'Sandy Shore Mapdata - Sheriff Only'
 version '1.0.1'
 
+this_is_a_map 'yes'
+
 dependencies {
     '/server:4960',
-    '/gameBuild:2189',
 }
-
-this_is_a_map 'yes'
 
 escrow_ignore {
     'stream/ybn/*.ybn',
