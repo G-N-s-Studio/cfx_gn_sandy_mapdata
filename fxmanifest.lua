@@ -3,17 +3,14 @@ games { 'gta5' }
 
 author 'G&N_s Studio'
 description 'Sandy Shore Mapdata - Strip Mall Only'
-version '3.0.1'
+version '4.0.0'
 
 dependencies {
-    '/server:4960',
-    '/gameBuild:2189',
+    '/gameBuild:2189'
 }
 
 this_is_a_map 'yes'
 
 escrow_ignore {
-    'stream/ybn/*.ybn',
-    'stream/ydr/*.ydr',
-    'stream/ymap/*.ymap'
+    'stream/**/*'
 }
