@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'G&N_s Studio'
 description 'Sandy Shore Mapdata - Clinic Center + Burgershot + Sheriff Dept + Motel + Strip Mall + Laundry'
-version '4.0.0'
+version '4.1.0'
 
 dependency '/gameBuild:2189'
 
