@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'G&N_s Studio'
-description 'Sandy Shore Mapdata - Clinic Center + Burgershot + Sheriff Dept + Motel + Strip Mall + Laundry'
-version '4.1.0'
+description 'Sandy Shore Mapdata - Remaster Release 1'
+version '5.0.0'
 
 dependency '/gameBuild:2189'
 
