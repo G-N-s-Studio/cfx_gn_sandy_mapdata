@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'G&N_s Studio'
-description 'Sandy Shore Mapdata - Remaster Release 1'
+description 'Sandy Shore Mapdata - Remaster Release 1 + Prompt Marina + Prompt Boathouse'
 version '5.0.0'
 
 dependency '/gameBuild:2189'
