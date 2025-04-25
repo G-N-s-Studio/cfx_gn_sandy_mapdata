@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'G&N_s Studio'
 description 'Sandy Shore Mapdata - Remaster Release 1'
-version '5.0.0'
+version '4.8.1'
 
 dependency '/gameBuild:2189'
 
